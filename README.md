@@ -1,0 +1,3 @@
+Hi, I'm V, uhm... Currently i am a highschool student who is living and studying in Viet Nam. 
+I'm actually interested in programming, and the language i'm familiar with and are using is C++.
+I want to get better and better each day after waking up, but i stil can't get better...
